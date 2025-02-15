@@ -7,12 +7,14 @@ Bu proje, komut satırında (siyah ekranda) çalışan basit bir **C# Konsol Uyg
 - Grafik arayüz içermez, yalnızca metin tabanlıdır.
 - Kullanıcıdan girdi alıp işlem yapabilir.
 
-## 🚀 Kurulum ve Çalıştırma
-
-### 1️⃣ **Gereksinimler**
+## 🚀 Gereksinimler ve Çalıştırma
+1️⃣ Gereksinimler
 - .NET SDK 7+ (Windows, Linux, macOS)
 - VS Code, Visual Studio veya herhangi bir C# uyumlu IDE
-###
-   git clone [<repo_link>](https://github.com/HaticeFAKS/Housing-Management-System)
-   cd [<repo_name>] Housing-Management-System
+
+2️⃣ Çalıştırma
+- sh
+git clone https://github.com/HaticeFAKS/Housing-Management-System
+cd Housing-Management-System
+
  
