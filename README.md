@@ -13,8 +13,9 @@ Bu proje, komut satırında (siyah ekranda) çalışan basit bir **C# Konsol Uyg
 - VS Code, Visual Studio veya herhangi bir C# uyumlu IDE
 
 2️⃣ Çalıştırma
-- sh
+````sh
 git clone https://github.com/HaticeFAKS/Housing-Management-System
 cd Housing-Management-System
+```
 
  
