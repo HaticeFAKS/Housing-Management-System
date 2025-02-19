@@ -1,5 +1,5 @@
 # Housing Management System
-Bu proje, komut satırında (siyah ekranda) çalışan basit bir **C# Konsol Uygulaması**dır. Kullanıcıdan giriş alıp ekrana çıktı verir.
+Bu proje, komut satırında (siyah ekranda) çalışan basit bir **java Konsol Uygulaması**dır. Kullanıcıdan giriş alıp ekrana çıktı verir.
 
 ## 📌 Özellikler
 
